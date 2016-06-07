@@ -1,4 +1,5 @@
 @echo on
+rem This file encoding DOS (CP866)
 rem Автоматическая выгрузка журнала регистрации ИБ
 rem используется авторизация Windows, ключ /WA+
 
